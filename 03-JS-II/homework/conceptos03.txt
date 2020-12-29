@@ -1,0 +1,8 @@
+conceptos
+
+bucle for: El bucle for o ciclo for es una estructura de control en programación en la que se puede indicar 
+de antemano el número mínimo de iteraciones que la instrucción realizará. 
+
+&& AND:ordenador logico el cual el resultado es verdadero si ambas expresiones son verdaderas
+|| OR: ordenador logico el cual el resultado es verdadero si alguna expresión es verdadera
+! NOT:  ordenador logico el cual el resultado invierte la condición de la expresión
