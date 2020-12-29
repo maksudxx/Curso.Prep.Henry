@@ -1,0 +1,16 @@
+Conceptos
+
+Variables : una variable es un espacio de memoria en el cual se almacena un valor al cual se le asigna a la misma, esta puede almacenar
+cualquier tipo de dato (segun el lenguaje de programacion se lo especifica o no). la misma puede guardar solo un valor por vez ya que se sobreescribe 
+si se trata de almacenar varios valores sobre la misma. y una vez detenido el programa el valor asignado se borra.
+
+Strings: un String o cadenas es un tipo de dato que puede almacenar todo tipo de caracteres(letras, numeros, simbolos, etc) esta siempre va entre comillas("" o '').
+
+funcion: una funcion es un modulo de un programa el cual realiza una tarea y puede ser invocada desde un programa, esta puede recibir
+parametros el cual se utilizan dentro de la misma. una de sus ventajas es que facilita la reutilizacion de la misma optimiza el tiempo de desarrollo de un equipo. 
+Las funciones siempre retornaran un valor al ser invocadas.
+
+sentencia if: Un if en programación se utiliza para evaluar una expresión condicional: si se cumple la condición (es verdadera), ejecutará un bloque de código. 
+Si es falsa, es posible ejecutar otras sentencias. Como hemos dicho, la condición es una condición lógica, sólo devolverá true o false , y se ejecutará si su valor es true .
+
+valores booleanos: El tipo de dato lógico o booleano es en computación aquel que puede representar valores de lógica binaria, esto es 2 valores, que normalmente representan falso o verdadero.
