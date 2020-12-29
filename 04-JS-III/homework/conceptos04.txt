@@ -1,0 +1,5 @@
+conceptos
+
+Array: Un array, es un tipo de dato estructurado que permite almacenar un conjunto de datos homogeneo, 
+es decir, todos ellos del mismo tipo y relacionados. para acceder al mismo se lo hace a traves de su indice.
+su indice comienza en 0.
